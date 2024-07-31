@@ -4,3 +4,6 @@
 
 ### How to View Maps
 Download and open the html files.
+
+### How to View the Riders Heatmap with All Barangays
+Open the 'ridermappingv2.ipynb' file using Jupyter Notebook or Google Colab and run all the code in order. The HTML file was too big for github to manually import.
